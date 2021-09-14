@@ -60,7 +60,7 @@ button:hover{
 
 @media screen and (max-width: 425px) {
     section{
-        height: 100px;
+        height: 200px;
         width: 100px;
         padding-top: 10px;
     }
